@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "6355ad95448a6fbfa799efea"
+  },
+  "setup": " What is the biggest lie in the entire universe? ",
+  "punchline": " I have read and agree to the Terms & Conditions. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559381339"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559381339"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355ae92448a6fbfa799efec"
+  },
+  "setup": " The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory ",
+  "punchline": " Just 1 byte. And then everything crashed. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559634486"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559634486"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355aeba448a6fbfa799efee"
+  },
+  "setup": " Set your wifi password to 2444666668888888. ",
+  "punchline": " So when someone asks for it, tell them it's 12345678. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559674701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559674701"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355aefc448a6fbfa799eff0"
+  },
+  "setup": " How many programmers does it take to change a light bulb? ",
+  "punchline": " None. It’s a hardware problem. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559740996"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559740996"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355af26448a6fbfa799eff2"
+  },
+  "setup": " My Internet stopped working for 5 minutes. ",
+  "punchline": " Met my parents. They’re nice people. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559782151"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559782151"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355af55448a6fbfa799eff4"
+  },
+  "setup": " Where are dead computer hackers buried? ",
+  "punchline": " In decrypt. XD ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559829895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666562168697"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355afa6448a6fbfa799eff6"
+  },
+  "setup": " If Apple made a car, ",
+  "punchline": " would it have Windows? ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559910331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559910331"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355afca448a6fbfa799eff8"
+  },
+  "setup": " There are 10 types of people in the world:  ",
+  "punchline": "those who understand binary, and those who don’t. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559946773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559946773"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355afed448a6fbfa799effa"
+  },
+  "setup": " What chemical is released in your brain when you see something funny on the internet? ",
+  "punchline": " Dopameme.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666559981207"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666559981207"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355b44b448a6fbfa799f00f"
+  },
+  "setup": " I changed my password to 'incorrect'. ",
+  "punchline": " So whenever I forget what it is the computer will say 'Your password is incorrect'.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666561099215"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666561099215"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355b46f448a6fbfa799f011"
+  },
+  "setup": " Why was the JavaScript developer sad? ",
+  "punchline": " Because he didn’t Node how to Express himself. XD ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666561135185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666563018129"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355b4cb448a6fbfa799f013"
+  },
+  "setup": " Where does the USA keep its backups? ",
+  "punchline": " USB.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666561227970"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666561227970"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355b4fe448a6fbfa799f015"
+  },
+  "setup": " PATIENT: Doctor, I need your help. I'm addicted to checking my Twitter!",
+  "punchline": " DOCTOR: I'm so sorry, I don't follow.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666561278933"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666561278933"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355b525448a6fbfa799f017"
+  },
+  "setup": " A SQL query goes into a bar, walks up to two tables and asks, ",
+  "punchline": " Can I join you? ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666561317440"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666561317440"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6355ba45448a6fbfa799f026"
+  },
+  "setup": " Why was the JavaScript developer sad? ",
+  "punchline": " Because he didn’t Node how to Express himself. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666562629835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666562629835"
+    }
+  },
+  "__v": 0
+}]
